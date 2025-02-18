@@ -1,0 +1,11 @@
+D:\UKK\UKK_Todo_List\UKK_Todo_List\bin\Debug\UKK_Todo_List.exe.config
+D:\UKK\UKK_Todo_List\UKK_Todo_List\bin\Debug\UKK_Todo_List.exe
+D:\UKK\UKK_Todo_List\UKK_Todo_List\bin\Debug\UKK_Todo_List.pdb
+D:\UKK\UKK_Todo_List\UKK_Todo_List\obj\Debug\UKK_Todo_List.csproj.AssemblyReference.cache
+D:\UKK\UKK_Todo_List\UKK_Todo_List\obj\Debug\UKK_Todo_List.Form1.resources
+D:\UKK\UKK_Todo_List\UKK_Todo_List\obj\Debug\UKK_Todo_List.Form2.resources
+D:\UKK\UKK_Todo_List\UKK_Todo_List\obj\Debug\UKK_Todo_List.Properties.Resources.resources
+D:\UKK\UKK_Todo_List\UKK_Todo_List\obj\Debug\UKK_Todo_List.csproj.GenerateResource.cache
+D:\UKK\UKK_Todo_List\UKK_Todo_List\obj\Debug\UKK_Todo_List.csproj.CoreCompileInputs.cache
+D:\UKK\UKK_Todo_List\UKK_Todo_List\obj\Debug\UKK_Todo_List.exe
+D:\UKK\UKK_Todo_List\UKK_Todo_List\obj\Debug\UKK_Todo_List.pdb
